@@ -3,6 +3,9 @@
 # awesome-abb-robots
 A curated list of useful resources for ABB robots programming
 
+## Profinet Ressources
+- [FLo-ABB/GSDML_ABB_ROBOTS](https://github.com/FLo-ABB/GSDML_ABB_ROBOTS) - Repository to regroup all GSDML for ABB Robots Profinet Device. [GitHub Page]([https://github.com/FLo-ABB/GSDML_ABB_ROBOTS](https://flo-abb.github.io/GSDML_ABB_ROBOTS/))
+
 ## Python Ressources
 - [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)
 - [Compas RRC](https://github.com/compas-rrc/compas_rrc) - Online control for ABB robots over a simple-to-use Python interface.

@@ -12,7 +12,7 @@ A curated list of useful resources for ABB robots programming
 
 ## Rhino Grasshoper plugin
 
-- [Robot Components](https://leanpub.com/theanatomyofdomain-drivendesign](https://github.com/RobotComponents/RobotComponents) - Robot Components is a plugin for intuitive robot programming for ABB robots inside Rhinoceros Grasshopper.
+- [Robot Components](https://github.com/RobotComponents/RobotComponents) - Robot Components is a plugin for intuitive robot programming for ABB robots inside Rhinoceros Grasshopper.
 
 ## ROS Ressources
 

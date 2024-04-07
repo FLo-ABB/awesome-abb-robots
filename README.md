@@ -11,6 +11,7 @@ A curated list of useful resources for ABB robots programming
   - [🐍 Python Resources](#-python-resources)
   - [🦏 Rhino Grasshoper plugin](#-rhino-grasshoper-plugin)
   - [🤖 ROS Resources](#-ros-resources)
+  - [🔧 SDKs and RWS documentation](#-sdks-and-rws-documentation)
   - [🎮 Unity Resources](#-unity-resources)
   - [🛠️ Utilities](#️-utilities)
   - [📝 VSCode syntax](#-vscode-syntax)
@@ -31,6 +32,9 @@ A curated list of useful resources for ABB robots programming
 ## 🤖 ROS Resources
 - [JOiiNT-LAB/abb_wrapper](https://github.com/JOiiNT-LAB/abb_wrapper) - These packages are intended to ease the interaction between ABB OmniCore controllers and ROS-based systems, by providing ready-to-run ROS nodes.
 - [ros-industrial/abb_libegm](https://github.com/ros-industrial/abb_libegm) - A C++ library for interfacing with ABB robot controllers supporting Externally Guided Motion (689-1)
+
+## 🔧 SDKs and RWS documentation
+- [Developer Center](https://developercenter.robotstudio.com/) - A suite of SDKs and Web services to communicate with ABB Robots
 
 ## 🎮 Unity Resources
 - [rparak/Unity3D_Robotics_ABB](https://github.com/rparak/Unity3D_Robotics_ABB) - A digital-twin of the robot ABB integrated into the Unity3D development platform.

@@ -14,7 +14,7 @@ A curated list of useful resources for ABB robots programming
   - [🔧 SDKs and RWS documentation](#-sdks-and-rws-documentation)
   - [🎮 Unity Resources](#-unity-resources)
   - [🛠️ Utilities](#️-utilities)
-  - [📝 VSCode syntax](#-vscode-syntax)
+  - [📝 VSCode Extension](#-vscode-extension)
 
 ## 💻 Applications
 - [abb-ecosystem/lean-palletizing-js](https://github.com/abb-ecosystem/lean-palletizing-js) - This an easy palletizing solution for ABB robots. It is based on the TComponents and FPComponents framework and can be used as a template for your own palletizing application.
@@ -42,5 +42,5 @@ A curated list of useful resources for ABB robots programming
 ## 🛠️ Utilities
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
 
-## 📝 VSCode syntax
-- [RoboDK/Industrial-Robots-VSCode](https://github.com/RoboDK/Industrial-Robots-VSCode) - The Industrial Robots extension for VSCode adds syntax highlighting to robot programs. This extension aims to support syntax highlighting…
+## 📝 VSCode Extension
+- [RoboDK/Industrial-Robots-VSCode](https://github.com/RoboDK/Industrial-Robots-VSCode) - The Industrial Robots extension for VSCode/VSCodium is an open source extension that aims to provide syntax highlighting for industrial robot programs. This extension aims to support all industrial robot controllers.

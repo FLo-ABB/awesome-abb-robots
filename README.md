@@ -7,7 +7,7 @@ A curated list of useful resources for ABB robots programming
 - [awesome-abb-robots](#awesome-abb-robots)
   - [Table of Contents](#table-of-contents)
   - [💻 Applications](#-applications)
-  - [🌐 Profinet Resources](#-profinet-resources)
+  - [🌐 PLC](#-plc)
   - [🐍 Python Resources](#-python-resources)
   - [🦏 Rhino Grasshoper plugin](#-rhino-grasshoper-plugin)
   - [🤖 ROS Resources](#-ros-resources)
@@ -19,8 +19,11 @@ A curated list of useful resources for ABB robots programming
 ## 💻 Applications
 - [abb-ecosystem/lean-palletizing-js](https://github.com/abb-ecosystem/lean-palletizing-js) - This an easy palletizing solution for ABB robots. It is based on the TComponents and FPComponents framework and can be used as a template for your own palletizing application.
 
-## 🌐 Profinet Resources
-- [FLo-ABB/GSDML_ABB_ROBOTS](https://github.com/FLo-ABB/GSDML_ABB_ROBOTS) - Repository to regroup all GSDML for ABB Robots Profinet Device. [GitHub Page](https://flo-abb.github.io/GSDML_ABB_ROBOTS/)
+## 🌐 PLC
+- Siemens
+  - [FLo-ABB/GSDML_ABB_ROBOTS](https://github.com/FLo-ABB/GSDML_ABB_ROBOTS) - Repository to regroup all GSDML for ABB Robots Profinet Device. [GitHub Page](https://flo-abb.github.io/GSDML_ABB_ROBOTS/)
+- B&R
+  - [loupeteam/A3br](https://github.com/loupeteam/A3br) - AR Library for communicating with ABB targets via RWS. ABB + BR = A3BR!
 
 ## 🐍 Python Resources
 - [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)

@@ -7,12 +7,13 @@ A curated list of useful resources for ABB robots programming
 - [awesome-abb-robots](#awesome-abb-robots)
   - [Table of Contents](#table-of-contents)
   - [🏭 Applications](#-applications)
+  - [🟦 Autodesk Maya](#-autodesk-maya)
   - [💻 C++](#-c)
   - [🧮 MATLAB](#-matlab)
   - [🧰 Multi-Function Tool](#-multi-function-tool)
   - [🌐 PLC](#-plc)
   - [🐍 Python](#-python)
-  - [🦏 Rhino Grasshoper plugin](#-rhino-grasshoper-plugin)
+  - [🦏+🦗+🤖 Rhino Grasshoper plugin](#-rhino-grasshoper-plugin)
   - [🤖 ROS](#-ros)
   - [🔧 SDKs and RWS documentation](#-sdks-and-rws-documentation)
   - [🎮 Unity](#-unity)
@@ -21,6 +22,9 @@ A curated list of useful resources for ABB robots programming
 
 ## 🏭 Applications
 - [abb-ecosystem/lean-palletizing-js](https://github.com/abb-ecosystem/lean-palletizing-js) - This an easy palletizing solution for ABB robots. It is based on the TComponents and FPComponents framework and can be used as a template for your own palletizing application.
+
+## 🟦 Autodesk Maya
+- [AutodeskRoboticsLab/Mimic](https://github.com/AutodeskRoboticsLab/Mimic) - An open-source Autodesk Maya plugin for controlling Industrial Robots.
 
 ## 💻 C++
 - [madelinegannon/abb_egm_hello_world](https://github.com/madelinegannon/abb_egm_hello_world) - A simple example of how to use the ABB External Guided Motion (EGM) interface to control an ABB robot in real-time using C++.
@@ -41,8 +45,8 @@ A curated list of useful resources for ABB robots programming
 - [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)
 - [compas-rrc/compas_rrc](https://github.com/compas-rrc/compas_rrc) - Online control for ABB robots over a simple-to-use Python interface.
 
-## 🦏 Rhino Grasshoper plugin
-- [RobotComponents/RobotComponents](https://github.com/RobotComponents/RobotComponents) - Robot Components is a plugin for intuitive robot programming for ABB robots inside Rhinoceros Grasshopper.
+## 🦏+🦗+🤖 Rhino Grasshoper plugin
+- [robin-gdwl/Robots-in-Grasshopper](https://github.com/robin-gdwl/Robots-in-Grasshopper) - A collection of plugins and software that can be used to control industrial robots with Grasshopper in Rhinoceros3D.
 
 ## 🤖 ROS
 - [JOiiNT-LAB/abb_wrapper](https://github.com/JOiiNT-LAB/abb_wrapper) - These packages are intended to ease the interaction between ABB OmniCore controllers and ROS-based systems, by providing ready-to-run ROS nodes.

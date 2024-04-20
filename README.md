@@ -6,7 +6,8 @@ A curated list of useful resources for ABB robots programming
 ## Table of Contents
 - [awesome-abb-robots](#awesome-abb-robots)
   - [Table of Contents](#table-of-contents)
-  - [💻 Applications](#-applications)
+  - [🏭 Applications](#-applications)
+  - [💻 C++](#-c)
   - [🧮 MATLAB](#-matlab)
   - [🧰 Multi-Function Tool](#-multi-function-tool)
   - [🌐 PLC](#-plc)
@@ -18,8 +19,11 @@ A curated list of useful resources for ABB robots programming
   - [🛠️ Utilities](#️-utilities)
   - [📝 VSCode Extension](#-vscode-extension)
 
-## 💻 Applications
+## 🏭 Applications
 - [abb-ecosystem/lean-palletizing-js](https://github.com/abb-ecosystem/lean-palletizing-js) - This an easy palletizing solution for ABB robots. It is based on the TComponents and FPComponents framework and can be used as a template for your own palletizing application.
+
+## 💻 C++
+- [madelinegannon/abb_egm_hello_world](https://github.com/madelinegannon/abb_egm_hello_world) - A simple example of how to use the ABB External Guided Motion (EGM) interface to control an ABB robot in real-time using C++.
 
 ## 🧮 MATLAB
 - [4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE) - ARTE is a Matlab toolbox focussed on robotic manipulators, both serial and parallel mechanisms are included.

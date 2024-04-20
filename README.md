@@ -8,6 +8,7 @@ A curated list of useful resources for ABB robots programming
   - [Table of Contents](#table-of-contents)
   - [💻 Applications](#-applications)
   - [🧮 MATLAB](#-matlab)
+  - [🧰 Multi-Function Tool](#-multi-function-tool)
   - [🌐 PLC](#-plc)
   - [🐍 Python](#-python)
   - [🦏 Rhino Grasshoper plugin](#-rhino-grasshoper-plugin)
@@ -22,6 +23,9 @@ A curated list of useful resources for ABB robots programming
 
 ## 🧮 MATLAB
 - [4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE) - ARTE is a Matlab toolbox focussed on robotic manipulators, both serial and parallel mechanisms are included.
+
+## 🧰 Multi-Function Tool
+- [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, C++ libraries to communicate with ABB robots directly or via ROS (see wiki).
 
 ## 🌐 PLC
 - Siemens

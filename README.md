@@ -6,7 +6,6 @@ A curated list of useful resources for ABB robots programming
 ## Table of Contents
 - [awesome-abb-robots](#awesome-abb-robots)
   - [Table of Contents](#table-of-contents)
-  - [🏭 Applications](#-applications)
   - [🟦 Autodesk Maya](#-autodesk-maya)
   - [💻 C++](#-c)
   - [🧮 MATLAB](#-matlab)
@@ -19,9 +18,6 @@ A curated list of useful resources for ABB robots programming
   - [🎮 Unity](#-unity)
   - [🛠️ Utilities](#️-utilities)
   - [📝 VSCode Extension](#-vscode-extension)
-
-## 🏭 Applications
-- [abb-ecosystem/lean-palletizing-js](https://github.com/abb-ecosystem/lean-palletizing-js) - This an easy palletizing solution for ABB robots. It is based on the TComponents and FPComponents framework and can be used as a template for your own palletizing application.
 
 ## 🟦 Autodesk Maya
 - [AutodeskRoboticsLab/Mimic](https://github.com/AutodeskRoboticsLab/Mimic) - An open-source Autodesk Maya plugin for controlling Industrial Robots.

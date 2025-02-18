@@ -15,6 +15,7 @@ A curated list of useful resources for ABB robots programming
   - [🦏+🦗+🤖 Rhino Grasshoper plugin](#-rhino-grasshoper-plugin)
   - [🤖 ROS](#-ros)
   - [🔧 SDKs and RWS documentation](#-sdks-and-rws-documentation)
+  - [🌐 TCP/IP](#-tcpip)
   - [🎮 Unity](#-unity)
   - [🛠️ Utilities](#️-utilities)
   - [📝 VSCode Extension](#-vscode-extension)
@@ -41,6 +42,7 @@ A curated list of useful resources for ABB robots programming
 - [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)
 - [compas-rrc/compas_rrc](https://github.com/compas-rrc/compas_rrc) - Online control for ABB robots over a simple-to-use Python interface.
 - [FLo-ABB/ABB-EGM-Python](https://github.com/FLo-ABB/ABB-EGM-Python/tree/master) - Example of arrays exchange via Externally Guided Motion (EGM)
+- [madelinegannon/abb_rapid_python](https://github.com/madelinegannon/abb_rapid_python) - Generate ABB Rapid code via Python.
 
 ## 🦏+🦗+🤖 Rhino Grasshoper plugin
 - [robin-gdwl/Robots-in-Grasshopper](https://github.com/robin-gdwl/Robots-in-Grasshopper) - A collection of plugins and software that can be used to control industrial robots with Grasshopper in Rhinoceros3D.
@@ -52,6 +54,9 @@ A curated list of useful resources for ABB robots programming
 
 ## 🔧 SDKs and RWS documentation
 - [Developer Center](https://developercenter.robotstudio.com/) - A suite of SDKs and Web services to communicate with ABB Robots
+
+## 🌐 TCP/IP
+- [madelinegannon/abb_tcpip_server](https://github.com/madelinegannon/abb_tcpip_server) - Example for TCP/IP communication with ABB industrial robots
 
 ## 🎮 Unity
 - [rparak/Unity3D_Robotics_ABB](https://github.com/rparak/Unity3D_Robotics_ABB) - A digital-twin of the robot ABB integrated into the Unity3D development platform.

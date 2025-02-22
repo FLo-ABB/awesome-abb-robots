@@ -41,7 +41,7 @@ A curated list of useful resources for ABB robots programming
 ## 🐍 Python
 - [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)
 - [compas-rrc/compas_rrc](https://github.com/compas-rrc/compas_rrc) - Online control for ABB robots over a simple-to-use Python interface.
-- [FLo-ABB/ABB-EGM-Python](https://github.com/FLo-ABB/ABB-EGM-Python/tree/master) - Example of arrays exchange via Externally Guided Motion (EGM)
+- [FLo-ABB/ABB-EGM-Python](https://github.com/FLo-ABB/ABB-EGM-Python) - Example of Externally Guided Motion (EGM) with ABB robots using Python.
 - [madelinegannon/abb_rapid_python](https://github.com/madelinegannon/abb_rapid_python) - Generate ABB Rapid code via Python.
 
 ## 🦏+🦗+🤖 Rhino Grasshoper plugin

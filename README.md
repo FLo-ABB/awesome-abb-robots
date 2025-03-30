@@ -65,6 +65,7 @@ A curated list of useful resources for ABB robots programming
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
 - [EkhiABB/ABB-OmniCore-file-uploader](https://github.com/EkhiABB/ABB-OmniCore-file-uploader) - Web application to upload files to ABB OmniCore controllers from a web browser.
 - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
+- [tonycab/AbbBackup](https://github.com/tonycab/AbbBackup) - AbbBackup is a Windows app for saving back-ups ABB IRC5 robots over the network—ideal for setups with many robots.
 
 ## 📝 VSCode Extension
 - [RoboDK/Industrial-Robots-VSCode](https://github.com/RoboDK/Industrial-Robots-VSCode) - The Industrial Robots extension for VSCode/VSCodium is an open source extension that aims to provide syntax highlighting for industrial robot programs. This extension aims to support all industrial robot controllers.

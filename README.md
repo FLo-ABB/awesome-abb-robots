@@ -48,6 +48,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [compas-rrc/compas_rrc](https://github.com/compas-rrc/compas_rrc) - Online control for ABB robots over a simple-to-use Python interface.
 - [FLo-ABB/ABB-EGM-Python](https://github.com/FLo-ABB/ABB-EGM-Python) - Example of Externally Guided Motion (EGM) with ABB robots using Python.
 - [madelinegannon/abb_rapid_python](https://github.com/madelinegannon/abb_rapid_python) - Generate ABB Rapid code via Python.
+- [vbirgus/Collaborative-Air-Hockey-Robot](https://github.com/vbirgus/Collaborative-Air-Hockey-Robot) - Implementation of a collaborative robotic air hockey system using computer vision and EGM interface for real-time control.
 
 ### ⚡ RAPID
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.

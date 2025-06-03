@@ -85,6 +85,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [JOiiNT-LAB/abb_wrapper](https://github.com/JOiiNT-LAB/abb_wrapper) - These packages are intended to ease the interaction between ABB OmniCore controllers and ROS-based systems, by providing ready-to-run ROS nodes.
 - [ros-industrial/abb_libegm](https://github.com/ros-industrial/abb_libegm) - A C++ library for interfacing with ABB robot controllers supporting Externally Guided Motion (689-1)
 - [PickNikRobotics/abb_ros2](https://github.com/PickNikRobotics/abb_ros2) - This is a meta-package containing everything to run an ABB robot or simulation with ROS 2.
+- [ros-industrial/abb (noetic-devel, URDFs)](https://github.com/ros-industrial/abb/tree/noetic-devel#) - URDF files for different ABB manipulators for use with ROS.
 
 ### 🧰 Multi-Function Tools
 - [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, C++ libraries to communicate with ABB robots directly or via ROS (see wiki).

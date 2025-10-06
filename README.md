@@ -53,6 +53,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 ### ⚡ RAPID
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
 - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
+- [FLo-ABB/Hershey-ABB-Robot-Handwriting](https://github.com/FLo-ABB/Hershey-ABB-Robot-Handwriting) - ABB robot handwriting implementation using Hershey fonts for text-to-robot-motion conversion.
 
 ## Communication
 

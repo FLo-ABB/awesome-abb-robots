@@ -87,6 +87,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [ros-industrial/abb_libegm](https://github.com/ros-industrial/abb_libegm) - A C++ library for interfacing with ABB robot controllers supporting Externally Guided Motion (689-1)
 - [PickNikRobotics/abb_ros2](https://github.com/PickNikRobotics/abb_ros2) - This is a meta-package containing everything to run an ABB robot or simulation with ROS 2.
 - [ros-industrial/abb (noetic-devel, URDFs)](https://github.com/ros-industrial/abb/tree/noetic-devel#) - URDF files for different ABB manipulators for use with ROS.
+- [MerlinLaboratory/ABB_omnicore_ros_driver](https://github.com/MerlinLaboratory/ABB_omnicore_ros_driver) - ROS driver for ABB OmniCore robots.
 
 ### 🧰 Multi-Function Tools
 - [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, C++ libraries to communicate with ABB robots directly or via ROS (see wiki).

@@ -77,7 +77,8 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 
 ### 🦏 Rhino Grasshopper
 - [robin-gdwl/Robots-in-Grasshopper](https://github.com/robin-gdwl/Robots-in-Grasshopper) - A collection of plugins and software that can be used to control industrial robots with Grasshopper in Rhinoceros3D.
-
+- [visose/Robots](https://github.com/visose/Robots) - A visual and parametric framework for simulating and programming industrial robots, including ABB robots.
+- 
 ### 🎮 Unity
 - [rparak/Unity3D_Robotics_ABB](https://github.com/rparak/Unity3D_Robotics_ABB) - A digital-twin of the robot ABB integrated into the Unity3D development platform.
 

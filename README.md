@@ -27,6 +27,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
   - [Utilities](#utilities)
     - [💾 Backup Tools](#-backup-tools)
     - [🛠️ Development Utilities](#️-development-utilities)
+    - [🔀 EIO Utilities](#-eio-utilities)
     - [🌐 Web Applications](#-web-applications)
   - [Editor Support](#editor-support)
     - [📝 VSCode Extensions](#-vscode-extensions)
@@ -102,13 +103,16 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
 - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
 
+### 🔀 EIO Utilities
+- [EIO_Sorter](https://github.com/FLo-ABB/EIO_Sorter) - A web-based tool designed to sort EIO.cfg files from ABB robot controllers, making it easier to compare configurations across different robots using standard comparison tools.
+
 ### 🌐 Web Applications
 - [EkhiABB/ABB-OmniCore-file-uploader](https://github.com/EkhiABB/ABB-OmniCore-file-uploader) - Web application to upload files to ABB OmniCore controllers from a web browser.
 
 ## Editor Support
 
 ### 📝 VSCode Extensions
-- [RoboDK/Industrial-Robots-VSCode](https://github.com/RoboDK/Industrial-Robots-VSCode) - Extension for VSCode/VSCodium providing syntax highlighting for industrial robot programs.
+- [Official ABB Extension](https://marketplace.visualstudio.com/items?itemName=abb-robotics-ecosystem.abb-robotics) - Official extension for ABB Robotics development, providing syntax highlighting, code autocompletion.
 
 ## Contributing
 Please take a moment to read our [Contributing Guidelines](contributing.md) to make the process easy and effective for everyone involved!

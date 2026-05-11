@@ -38,10 +38,10 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [madelinegannon/abb_egm_hello_world](https://github.com/madelinegannon/abb_egm_hello_world) - A simple example of how to use the ABB External Guided Motion (EGM) interface to control an ABB robot in real-time using C++.
 
 ### 🎯 C#
-- [EkhiABB/ABB-PCSDK-examples](https://github.com/EkhiABB/ABB-PCSDK-examples) - Examples of PCSDK application communicating with an ABB controller. Demonstrates C# program connecting to an ABB OmniCore robot controller, managing RAPID modules, and running programs.
+- [EkhiABB/ABB-PCSDK-examples](https://github.com/EkhiABB/ABB-PCSDK-examples) - Examples of PCSDK applications communicating with an ABB controller. Demonstrates a C# program connecting to an ABB OmniCore robot controller, managing RAPID modules, and running programs.
 
 ### 🧮 MATLAB
-- [4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE) - ARTE is a Matlab toolbox focussed on robotic manipulators, both serial and parallel mechanisms are included.
+- [4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE) - ARTE is a MATLAB toolbox focused on robotic manipulators; both serial and parallel mechanisms are included.
 
 ### 🐍 Python
 - [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)
@@ -65,24 +65,24 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 
 ### 🔌 PLC Integration
 - Siemens
-  - [FLo-ABB/GSDML_ABB_ROBOTS](https://github.com/FLo-ABB/GSDML_ABB_ROBOTS) - Repository to regroup all GSDML for ABB Robots Profinet Device. [GitHub Page](https://flo-abb.github.io/GSDML_ABB_ROBOTS/)
+  - [FLo-ABB/GSDML_ABB_ROBOTS](https://github.com/FLo-ABB/GSDML_ABB_ROBOTS) - Repository that groups GSDML files for ABB robot PROFINET devices. [GitHub Page](https://flo-abb.github.io/GSDML_ABB_ROBOTS/)
 - B&R
   - [loupeteam/A3br](https://github.com/loupeteam/A3br) - AR Library for communicating with ABB targets via RWS. ABB + BR = A3BR!
 
 ### 🔧 SDKs and Documentation
-- [Developer Center](https://developercenter.robotstudio.com/) - A suite of SDKs and Web services to communicate with ABB Robots
+- [Developer Center](https://developercenter.robotstudio.com/) - A suite of SDKs and web services to communicate with ABB robots.
 
 ## 3D and Simulation
 
 ### 🟦 Autodesk Maya
-- [AutodeskRoboticsLab/Mimic](https://github.com/AutodeskRoboticsLab/Mimic) - An open-source Autodesk Maya plugin for controlling Industrial Robots.
+- [AutodeskRoboticsLab/Mimic](https://github.com/AutodeskRoboticsLab/Mimic) - An open-source Autodesk Maya plugin for controlling industrial robots.
 
 ### 🦏 Rhino Grasshopper
 - [robin-gdwl/Robots-in-Grasshopper](https://github.com/robin-gdwl/Robots-in-Grasshopper) - A collection of plugins and software that can be used to control industrial robots with Grasshopper in Rhinoceros3D.
 - [visose/Robots](https://github.com/visose/Robots) - A visual and parametric framework for simulating and programming industrial robots, including ABB robots.
-- 
+
 ### 🎮 Unity
-- [rparak/Unity3D_Robotics_ABB](https://github.com/rparak/Unity3D_Robotics_ABB) - A digital-twin of the robot ABB integrated into the Unity3D development platform.
+- [rparak/Unity3D_Robotics_ABB](https://github.com/rparak/Unity3D_Robotics_ABB) - A digital twin of ABB robots integrated into the Unity3D development platform.
 
 ## Frameworks and Platforms
 
@@ -95,15 +95,16 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 
 ### 🧰 Multi-Function Tools
 - [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, C++ libraries to communicate with ABB robots directly or via ROS (see wiki).
+- [eliasbitsch/abb-robotstudio-mcp](https://github.com/eliasbitsch/abb-robotstudio-mcp) - Model Context Protocol (MCP) server for ABB RobotStudio and ABB controllers, exposing `rs_*` RobotStudio SDK tools and `rws_*` Robot Web Services tools.
 
 ## Utilities
 
 ### 💾 Backup Tools
-- [tonycab/AbbBackup](https://github.com/tonycab/AbbBackup) - Windows app for saving back-ups of ABB IRC5 robots over the network—ideal for setups with many robots.
+- [tonycab/AbbBackup](https://github.com/tonycab/AbbBackup) - Windows app for saving backups of ABB IRC5 robots over the network, ideal for setups with many robots.
 - [RoboTech360/ABBRobotBackupSorter](https://github.com/RoboTech360/ABBRobotBackupSorter) - Python script to find and zip ABB robot backups in a file tree.
 
 ### 🔀 SYSPAR Utilities
-- [SYSPAR-Config-Sorter](https://flo-abb.github.io/SYSPAR-Config-Sorter/) -A web-based tool designed to sort SYSPAR configuration files (such as EIO.cfg, PROC.cfg) from ABB robot controllers, making it easier to compare configurations across different robots using standard comparison tools.
+- [SYSPAR-Config-Sorter](https://flo-abb.github.io/SYSPAR-Config-Sorter/) - A web-based tool designed to sort SYSPAR configuration files (such as EIO.cfg and PROC.cfg) from ABB robot controllers, making it easier to compare configurations across different robots using standard comparison tools.
 
 ### 🌐 Web Applications
 - [EkhiABB/ABB-OmniCore-file-uploader](https://github.com/EkhiABB/ABB-OmniCore-file-uploader) - Web application to upload files to ABB OmniCore controllers from a web browser.

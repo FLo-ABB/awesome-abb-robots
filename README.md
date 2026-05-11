@@ -1,12 +1,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome ABB Robots [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/topics/awesome-list) 
+# Awesome ABB Robots [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/topics/awesome-list)
 
 A curated list of awesome tools, libraries, and resources for programming and working with ABB industrial robots. This list includes various programming languages, frameworks, and utilities that help in controlling, simulating, and managing ABB robots.
 
 ## Contents
 - [Awesome ABB Robots ](#awesome-abb-robots-)
   - [Contents](#contents)
+  - [Inclusion Criteria](#inclusion-criteria)
   - [Development Tools](#development-tools)
     - [💻 C++](#-c)
     - [🎯 C#](#-c-1)
@@ -32,6 +33,12 @@ A curated list of awesome tools, libraries, and resources for programming and wo
     - [📝 VSCode Extensions](#-vscode-extensions)
   - [Contributing](#contributing)
 
+## Inclusion Criteria
+- Relevant to ABB industrial robot development, integration, or operations.
+- Publicly accessible and reasonably maintained.
+- Useful documentation or examples are available.
+- Clear practical value for developers, integrators, or researchers.
+
 ## Development Tools
 
 ### 💻 C++
@@ -44,24 +51,22 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [4rtur1t0/ARTE](https://github.com/4rtur1t0/ARTE) - ARTE is a MATLAB toolbox focused on robotic manipulators; both serial and parallel mechanisms are included.
 
 ### 🐍 Python
-- [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python package providing clients for ABB robots using RWS (Robot Web Services) and Externally Guided Motion (EGM)
 - [compas-rrc/compas_rrc](https://github.com/compas-rrc/compas_rrc) - Online control for ABB robots over a simple-to-use Python interface.
 - [FLo-ABB/ABB-EGM-Python](https://github.com/FLo-ABB/ABB-EGM-Python) - Example of Externally Guided Motion (EGM) with ABB robots using Python.
 - [madelinegannon/abb_rapid_python](https://github.com/madelinegannon/abb_rapid_python) - Generate ABB Rapid code via Python.
+- [rpiRobotics/abb_robot_client](https://github.com/rpiRobotics/abb_robot_client) - Python clients for ABB robots using Robot Web Services (RWS) and Externally Guided Motion (EGM).
 - [vbirgus/Collaborative-Air-Hockey-Robot](https://github.com/vbirgus/Collaborative-Air-Hockey-Robot) - Implementation of a collaborative robotic air hockey system using computer vision and EGM interface for real-time control.
 
 ### ⚡ RAPID
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
 - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
 - [FLo-ABB/Hershey-ABB-Robot-Handwriting](https://github.com/FLo-ABB/Hershey-ABB-Robot-Handwriting) - ABB robot handwriting implementation using Hershey fonts for text-to-robot-motion conversion.
-  - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
-  - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
 
 
 ## Communication
 
 ### 🌐 TCP/IP
-- [madelinegannon/abb_tcpip_server](https://github.com/madelinegannon/abb_tcpip_server) - Example for TCP/IP communication with ABB industrial robots
+- [madelinegannon/abb_tcpip_server](https://github.com/madelinegannon/abb_tcpip_server) - Example for TCP/IP communication with ABB industrial robots.
 
 ### 🔌 PLC Integration
 - Siemens
@@ -88,34 +93,34 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 
 ### 🤖 ROS
 - [JOiiNT-LAB/abb_wrapper](https://github.com/JOiiNT-LAB/abb_wrapper) - These packages are intended to ease the interaction between ABB OmniCore controllers and ROS-based systems, by providing ready-to-run ROS nodes.
-- [ros-industrial/abb_libegm](https://github.com/ros-industrial/abb_libegm) - A C++ library for interfacing with ABB robot controllers supporting Externally Guided Motion (689-1)
+- [MerlinLaboratory/ABB_omnicore_ros_driver](https://github.com/MerlinLaboratory/ABB_omnicore_ros_driver) - ROS driver for ABB OmniCore robots.
 - [PickNikRobotics/abb_ros2](https://github.com/PickNikRobotics/abb_ros2) - This is a meta-package containing everything to run an ABB robot or simulation with ROS 2.
 - [ros-industrial/abb (noetic-devel, URDFs)](https://github.com/ros-industrial/abb/tree/noetic-devel#) - URDF files for different ABB manipulators for use with ROS.
-- [MerlinLaboratory/ABB_omnicore_ros_driver](https://github.com/MerlinLaboratory/ABB_omnicore_ros_driver) - ROS driver for ABB OmniCore robots.
+- [ros-industrial/abb_libegm](https://github.com/ros-industrial/abb_libegm) - A C++ library for interfacing with ABB robot controllers supporting Externally Guided Motion (EGM).
 
 ### 🧰 Multi-Function Tools
-- [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, C++ libraries to communicate with ABB robots directly or via ROS (see wiki).
-- [eliasbitsch/abb-robotstudio-mcp](https://github.com/eliasbitsch/abb-robotstudio-mcp) - Model Context Protocol (MCP) server for ABB RobotStudio and ABB controllers, exposing `rs_*` RobotStudio SDK tools and `rws_*` Robot Web Services tools.
+- [eliasbitsch/abb-robotstudio-mcp](https://github.com/eliasbitsch/abb-robotstudio-mcp) - MCP server for ABB RobotStudio and ABB controllers via SDK and Robot Web Services tools.
+- [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, and C++ libraries for communicating with ABB robots directly or via ROS.
 
 ## Utilities
 
 ### 💾 Backup Tools
-- [tonycab/AbbBackup](https://github.com/tonycab/AbbBackup) - Windows app for saving backups of ABB IRC5 robots over the network, ideal for setups with many robots.
 - [RoboTech360/ABBRobotBackupSorter](https://github.com/RoboTech360/ABBRobotBackupSorter) - Python script to find and zip ABB robot backups in a file tree.
+- [tonycab/AbbBackup](https://github.com/tonycab/AbbBackup) - Windows app for saving backups of ABB IRC5 robots over the network.
 
 ### 🔀 SYSPAR Utilities
 - [SYSPAR-Config-Sorter](https://flo-abb.github.io/SYSPAR-Config-Sorter/) - A web-based tool designed to sort SYSPAR configuration files (such as EIO.cfg and PROC.cfg) from ABB robot controllers, making it easier to compare configurations across different robots using standard comparison tools.
 
 ### 🌐 Web Applications
 - [EkhiABB/ABB-OmniCore-file-uploader](https://github.com/EkhiABB/ABB-OmniCore-file-uploader) - Web application to upload files to ABB OmniCore controllers from a web browser.
-  - [ichbinmeraj/abb-rws-client](https://github.com/ichbinmeraj/abb-rws-client) - A fully-typed TypeScript/Node.js client for ABB Robot Web Services (RWS 1.0 for IRC5 and RWS 2.0 for OmniCore). Features auto-detection, multi-robot orchestration, real-time WebSocket subscriptions, session management, and a unified API for controller state, RAPID execution, I/O, file system, and more. [MIT License]
+- [ichbinmeraj/abb-rws-client](https://github.com/ichbinmeraj/abb-rws-client) - Fully typed TypeScript/Node.js client for ABB Robot Web Services on IRC5 and OmniCore.
 
 
 ## Editor Support
 
 ### 📝 VSCode Extensions
-  - [Official ABB Extension](https://marketplace.visualstudio.com/items?itemName=abb-robotics-ecosystem.abb-robotics) - Official extension for ABB Robotics development, providing syntax highlighting, code autocompletion.
-  - [ichbinmeraj/abb-rws-vscode](https://github.com/ichbinmeraj/abb-rws-vscode) - RAPID Live: The first VS Code extension to connect directly to live ABB controllers (IRC5/OmniCore, real or virtual). Provides RAPID language server, live dashboard, push/pull/diff workflow for .mod files, multi-robot management, I/O/event log/CFG access, and live variable values inline. Built on the open-source abb-rws-client. [MIT License]
+- [Official ABB Extension](https://marketplace.visualstudio.com/items?itemName=abb-robotics-ecosystem.abb-robotics) - Official extension for ABB Robotics development, providing syntax highlighting, code autocompletion.
+- [ichbinmeraj/abb-rws-vscode](https://github.com/ichbinmeraj/abb-rws-vscode) - VS Code extension for live ABB controller workflows, RAPID language support, and controller operations.
 
 ## Contributing
 Please take a moment to read our [Contributing Guidelines](contributing.md) to make the process easy and effective for everyone involved!

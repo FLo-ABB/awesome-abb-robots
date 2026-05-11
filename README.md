@@ -26,7 +26,6 @@ A curated list of awesome tools, libraries, and resources for programming and wo
     - [🧰 Multi-Function Tools](#-multi-function-tools)
   - [Utilities](#utilities)
     - [💾 Backup Tools](#-backup-tools)
-    - [🛠️ Development Utilities](#️-development-utilities)
     - [🔀 SYSPAR Utilities](#-syspar-utilities)
     - [🌐 Web Applications](#-web-applications)
   - [Editor Support](#editor-support)
@@ -55,6 +54,9 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
 - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
 - [FLo-ABB/Hershey-ABB-Robot-Handwriting](https://github.com/FLo-ABB/Hershey-ABB-Robot-Handwriting) - ABB robot handwriting implementation using Hershey fonts for text-to-robot-motion conversion.
+  - [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
+  - [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
+
 
 ## Communication
 
@@ -100,20 +102,19 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 - [tonycab/AbbBackup](https://github.com/tonycab/AbbBackup) - Windows app for saving back-ups of ABB IRC5 robots over the network—ideal for setups with many robots.
 - [RoboTech360/ABBRobotBackupSorter](https://github.com/RoboTech360/ABBRobotBackupSorter) - Python script to find and zip ABB robot backups in a file tree.
 
-### 🛠️ Development Utilities
-- [ernell/ABB-RAPID-UTILITY-LIBRARY](https://github.com/ernell/ABB-RAPID-UTILITY-LIBRARY) - A collection of utility modules for ABB industrial robots.
-- [FLo-ABB/RAPID-Scripts-and-Demos](https://github.com/FLo-ABB/RAPID-Scripts-and-Demos) - A collection of modules/documentations/simulations for ABB industrial robots.
-
 ### 🔀 SYSPAR Utilities
 - [SYSPAR-Config-Sorter](https://flo-abb.github.io/SYSPAR-Config-Sorter/) -A web-based tool designed to sort SYSPAR configuration files (such as EIO.cfg, PROC.cfg) from ABB robot controllers, making it easier to compare configurations across different robots using standard comparison tools.
 
 ### 🌐 Web Applications
 - [EkhiABB/ABB-OmniCore-file-uploader](https://github.com/EkhiABB/ABB-OmniCore-file-uploader) - Web application to upload files to ABB OmniCore controllers from a web browser.
+  - [ichbinmeraj/abb-rws-client](https://github.com/ichbinmeraj/abb-rws-client) - A fully-typed TypeScript/Node.js client for ABB Robot Web Services (RWS 1.0 for IRC5 and RWS 2.0 for OmniCore). Features auto-detection, multi-robot orchestration, real-time WebSocket subscriptions, session management, and a unified API for controller state, RAPID execution, I/O, file system, and more. [MIT License]
+
 
 ## Editor Support
 
 ### 📝 VSCode Extensions
-- [Official ABB Extension](https://marketplace.visualstudio.com/items?itemName=abb-robotics-ecosystem.abb-robotics) - Official extension for ABB Robotics development, providing syntax highlighting, code autocompletion.
+  - [Official ABB Extension](https://marketplace.visualstudio.com/items?itemName=abb-robotics-ecosystem.abb-robotics) - Official extension for ABB Robotics development, providing syntax highlighting, code autocompletion.
+  - [ichbinmeraj/abb-rws-vscode](https://github.com/ichbinmeraj/abb-rws-vscode) - RAPID Live: The first VS Code extension to connect directly to live ABB controllers (IRC5/OmniCore, real or virtual). Provides RAPID language server, live dashboard, push/pull/diff workflow for .mod files, multi-robot management, I/O/event log/CFG access, and live variable values inline. Built on the open-source abb-rws-client. [MIT License]
 
 ## Contributing
 Please take a moment to read our [Contributing Guidelines](contributing.md) to make the process easy and effective for everyone involved!

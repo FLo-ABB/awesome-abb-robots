@@ -113,14 +113,13 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 
 ### 🌐 Web Applications
 - [EkhiABB/ABB-OmniCore-file-uploader](https://github.com/EkhiABB/ABB-OmniCore-file-uploader) - Web application to upload files to ABB OmniCore controllers from a web browser.
-- [ichbinmeraj/abb-rws-client](https://github.com/ichbinmeraj/abb-rws-client) - Fully typed TypeScript/Node.js client for ABB Robot Web Services on IRC5 and OmniCore.
-
+- [ichbinmeraj/abb-rws-client](https://github.com/ichbinmeraj/abb-rws-client) - TypeScript client for ABB Robot Web Services covering both protocol generations: RWS 1.0 (IRC5 / RobotWare 6) and RWS 2.0 (OmniCore / RobotWare 7), plus RobotWare 8 control station write access. Includes mDNS discovery for RobotStudio virtual controllers on dynamic ports, WebSocket subscriptions with polling fallback, and a conformance check that diffs the client against what a live controller advertises. Zero runtime dependencies, MIT.
 
 ## Editor Support
 
 ### 📝 VSCode Extensions
 - [Official ABB Extension](https://marketplace.visualstudio.com/items?itemName=abb-robotics-ecosystem.abb-robotics) - Official extension for ABB Robotics development, providing syntax highlighting, code autocompletion.
-- [ichbinmeraj/abb-rws-vscode](https://github.com/ichbinmeraj/abb-rws-vscode) - VS Code extension for live ABB controller workflows, RAPID language support, and controller operations.
+- [ichbinmeraj/abb-rws-vscode](https://github.com/ichbinmeraj/abb-rws-vscode) - VS Code extension that connects to a live IRC5 or OmniCore controller. RAPID language server with hover docs from the official reference manual, live variable values and program-pointer position shown inline in the editor, push/pull/diff of modules for a git-based workflow, plus I/O, event log, CFG, and backup/restore. MIT.
 
 ## Contributing
 Please take a moment to read our [Contributing Guidelines](contributing.md) to make the process easy and effective for everyone involved!

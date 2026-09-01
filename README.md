@@ -26,7 +26,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
     - [🤖 ROS](#-ros)
     - [🧰 Multi-Function Tools](#-multi-function-tools)
   - [PickMaster](#pickmaster)
-    - [🤖 ABB PickMaster](#-abb-pickmaster)
+    - [🥡 PickMaster](#-pickmaster-1)
   - [Utilities](#utilities)
     - [💾 Backup Tools](#-backup-tools)
     - [🔀 SYSPAR Utilities](#-syspar-utilities)
@@ -106,8 +106,8 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 
 ## PickMaster
 
-### 🤖 ABB PickMaster
-- [FLo-ABB/ExternalSensorTCP](https://github.com/FLo-ABB/ExternalSensorTCP) - ABB PickMaster integration for external sensor communication via TCP/IP protocol.
+### 🥡 PickMaster
+- [FLo-ABB/ExternalSensorTCP](https://github.com/FLo-ABB/ExternalSensorTCP) - PickMaster integration for external sensor communication via TCP/IP protocol.
 
 ## Utilities
 

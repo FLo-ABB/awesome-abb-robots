@@ -25,6 +25,7 @@ A curated list of awesome tools, libraries, and resources for programming and wo
   - [Frameworks and Platforms](#frameworks-and-platforms)
     - [🤖 ROS](#-ros)
     - [🧰 Multi-Function Tools](#-multi-function-tools)
+  - [PickMaster](#pickmaster)
   - [Utilities](#utilities)
     - [💾 Backup Tools](#-backup-tools)
     - [🔀 SYSPAR Utilities](#-syspar-utilities)
@@ -101,6 +102,9 @@ A curated list of awesome tools, libraries, and resources for programming and wo
 ### 🧰 Multi-Function Tools
 - [eliasbitsch/abb-robotstudio-mcp](https://github.com/eliasbitsch/abb-robotstudio-mcp) - MCP server for ABB RobotStudio and ABB controllers via SDK and Robot Web Services tools.
 - [robotics/open_abb](https://github.com/robotics/open_abb) - RAPID, Python, and C++ libraries for communicating with ABB robots directly or via ROS.
+
+## PickMaster
+- [FLo-ABB/ExternalSensorTCP](https://github.com/FLo-ABB/ExternalSensorTCP) - ABB PickMaster integration for external sensor communication via TCP/IP protocol.
 
 ## Utilities
 
